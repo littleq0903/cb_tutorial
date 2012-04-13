@@ -1,0 +1,204 @@
+
+=INFO REPORT==== 13-Apr-2012::16:10:54 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 13-Apr-2012::16:10:54 ===
+Starting master services on 'cb_tutorial@LittleQs-MacBook'
+
+=INFO REPORT==== 13-Apr-2012::16:10:54 ===
+Loading routes from "/Users/littleq/Downloads/cb_tutorial/priv/cb_tutorial.routes" ....
+
+=INFO REPORT==== 13-Apr-2012::16:10:58 ===
+GET /greeting/live [cb_tutorial] 200 20ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:00 ===
+GET /greeting/list [cb_tutorial] 200 14ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:07 ===
+GET /greeting/create [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:09 ===
+POST /greeting/create [cb_tutorial] 302 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:09 ===
+GET /greeting/pull/1334304658321651 [cb_tutorial] 200 10977ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:09 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:11:46 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:00 ===
+POST /greeting/create [cb_tutorial] 302 3ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:00 ===
+GET /greeting/pull/1334304669884205 [cb_tutorial] 200 50353ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:00 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:01 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:03 ===
+POST /greeting/create [cb_tutorial] 302 3ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:03 ===
+GET /greeting/pull/1334304720280964 [cb_tutorial] 200 3481ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:03 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:05 ===
+GET /greeting/create [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:07 ===
+POST /greeting/create [cb_tutorial] 302 3ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:07 ===
+GET /greeting/pull/1334304723809407 [cb_tutorial] 200 3438ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:07 ===
+GET /greeting/list [cb_tutorial] 200 9ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:08 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:11 ===
+POST /greeting/create [cb_tutorial] 302 3ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:11 ===
+GET /greeting/pull/1334304727288964 [cb_tutorial] 200 4408ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:11 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:13 ===
+GET /greeting/create [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:16 ===
+POST /greeting/create [cb_tutorial] 302 3ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:16 ===
+GET /greeting/pull/1334304731727195 [cb_tutorial] 200 4580ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:16 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:18 ===
+GET /greeting/create [cb_tutorial] 200 16ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:19 ===
+GET /greeting/pull/1334304736433473 [cb_tutorial] 200 3323ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:19 ===
+POST /greeting/create [cb_tutorial] 302 4ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:19 ===
+GET /greeting/list [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:21 ===
+GET /greeting/list [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:23 ===
+GET /greeting/live [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:25 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:27 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:29 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:32 ===
+POST /greeting/create [cb_tutorial] 302 2ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:32 ===
+GET /greeting/pull/1334304743682358 [cb_tutorial] 200 8535ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:32 ===
+GET /greeting/pull/1334304739817544 [cb_tutorial] 200 12624ms
+
+=INFO REPORT==== 13-Apr-2012::16:12:32 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:07:37 ===
+GET /greeting/create [cb_tutorial] 200 30ms
+
+=INFO REPORT==== 13-Apr-2012::18:07:40 ===
+GET /greeting/pull/1334304752487333 [cb_tutorial] 200 6907982ms
+
+=INFO REPORT==== 13-Apr-2012::18:07:40 ===
+POST /greeting/create [cb_tutorial] 302 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:07:40 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:07 ===
+GET /greeting/list [cb_tutorial] 200 10ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:09 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:13 ===
+GET /greeting/pull/1334311660527791 [cb_tutorial] 200 512995ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:13 ===
+POST /greeting/create [cb_tutorial] 302 4ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:13 ===
+GET /greeting/list [cb_tutorial] 200 14ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:15 ===
+GET /greeting/create [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:18 ===
+GET /greeting/pull/1334312173568783 [cb_tutorial] 200 4669ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:18 ===
+POST /greeting/create [cb_tutorial] 302 5ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:18 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:27 ===
+GET /greeting/create [cb_tutorial] 200 7ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:30 ===
+GET /greeting/pull/1334312178286230 [cb_tutorial] 200 12110ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:30 ===
+POST /greeting/create [cb_tutorial] 302 4ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:30 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:36 ===
+GET /greeting/live [cb_tutorial] 200 10ms
+
+=INFO REPORT==== 13-Apr-2012::18:16:44 ===
+GET /greeting/create [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:18:15 ===
+GET /greeting/pull/1334312196505164 [cb_tutorial] 200 99131ms
+
+=INFO REPORT==== 13-Apr-2012::18:18:15 ===
+POST /greeting/create [cb_tutorial] 302 4ms
+
+=INFO REPORT==== 13-Apr-2012::18:18:16 ===
+GET /greeting/list [cb_tutorial] 200 8ms
+
+=INFO REPORT==== 13-Apr-2012::18:21:30 ===
+GET /greeting/create [cb_tutorial] 200 10ms
+
+=INFO REPORT==== 13-Apr-2012::18:22:51 ===
+GET /greeting/pull/1334312295961410 [cb_tutorial] 200 275537ms
+
+=INFO REPORT==== 13-Apr-2012::18:22:51 ===
+POST /greeting/create [cb_tutorial] 302 4ms
+
+=INFO REPORT==== 13-Apr-2012::18:22:51 ===
+GET /greeting/list [cb_tutorial] 200 8ms
